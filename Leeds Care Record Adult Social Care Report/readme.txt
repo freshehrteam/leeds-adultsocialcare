@@ -1,0 +1,2 @@
+This is the template file set for template Leeds Care Record Adult Social Care Report( 87a0c54f-a66f-41d6-a30d-5cbcb32bcb83, revision 1), exported from the Clinical Knowledge Manager.
+Export time: Fri Jun 29 20:09:26 CEST 2018
